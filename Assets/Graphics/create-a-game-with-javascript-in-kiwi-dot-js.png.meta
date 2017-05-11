@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 4e418ea35780d0742b9847609980efef
+timeCreated: 1494183622
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: create-a-game-with-javascript-in-kiwi-dot-js_0
+    21300002: create-a-game-with-javascript-in-kiwi-dot-js_1
+    21300004: create-a-game-with-javascript-in-kiwi-dot-js_2
+    21300006: create-a-game-with-javascript-in-kiwi-dot-js_3
+    21300008: create-a-game-with-javascript-in-kiwi-dot-js_4
+    21300010: create-a-game-with-javascript-in-kiwi-dot-js_5
+    21300012: create-a-game-with-javascript-in-kiwi-dot-js_6
+    21300014: create-a-game-with-javascript-in-kiwi-dot-js_7
+    21300016: create-a-game-with-javascript-in-kiwi-dot-js_8
+    21300018: create-a-game-with-javascript-in-kiwi-dot-js_9
+    21300020: create-a-game-with-javascript-in-kiwi-dot-js_10
+    21300022: create-a-game-with-javascript-in-kiwi-dot-js_11
+    21300024: create-a-game-with-javascript-in-kiwi-dot-js_12
+    21300026: create-a-game-with-javascript-in-kiwi-dot-js_13
+    21300028: create-a-game-with-javascript-in-kiwi-dot-js_14
+    21300030: create-a-game-with-javascript-in-kiwi-dot-js_15
+    21300032: create-a-game-with-javascript-in-kiwi-dot-js_16
+    21300034: create-a-game-with-javascript-in-kiwi-dot-js_17
+    21300036: create-a-game-with-javascript-in-kiwi-dot-js_18
+    21300038: create-a-game-with-javascript-in-kiwi-dot-js_19
+    21300040: create-a-game-with-javascript-in-kiwi-dot-js_20
+    21300042: create-a-game-with-javascript-in-kiwi-dot-js_21
+    21300044: create-a-game-with-javascript-in-kiwi-dot-js_22
+    21300046: create-a-game-with-javascript-in-kiwi-dot-js_23
+    21300048: create-a-game-with-javascript-in-kiwi-dot-js_24
+    21300050: create-a-game-with-javascript-in-kiwi-dot-js_25
+    21300052: create-a-game-with-javascript-in-kiwi-dot-js_26
+    21300054: create-a-game-with-javascript-in-kiwi-dot-js_27
+    21300056: create-a-game-with-javascript-in-kiwi-dot-js_28
+    21300058: create-a-game-with-javascript-in-kiwi-dot-js_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 452
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 452
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 397
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 397
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 397
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 397
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 331
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 331
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 269
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 269
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 269
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 269
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 198
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 197
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 141
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 141
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 141
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 141
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: create-a-game-with-javascript-in-kiwi-dot-js_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 13
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
